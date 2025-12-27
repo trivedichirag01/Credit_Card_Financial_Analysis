@@ -36,10 +36,3 @@ Raw Data → Excel Cleaning → SQL Transformations → Power BI Data Model → 
 - Customer behavior analysis  
 - Revenue and risk monitoring  
 
----
-
-├── data/
-├── sql/
-├── powerbi/
-├── images/
-└── README.md
