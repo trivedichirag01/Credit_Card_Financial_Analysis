@@ -24,7 +24,6 @@ Raw Data → Excel Cleaning → SQL Transformations → Power BI Data Model → 
 - Weekly revenue and growth trends  
 - Transaction volume and value  
 - Customer segmentation by age, income, and card category  
-- Regional and merchant performance  
 - Delinquency and risk indicators  
 
 ---
