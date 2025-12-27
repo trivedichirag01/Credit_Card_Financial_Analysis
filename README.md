@@ -38,20 +38,6 @@ Raw Data → Excel Cleaning → SQL Transformations → Power BI Data Model → 
 
 ---
 
-## How to Use
-
-1. Download the `.pbix` file from the `powerbi` folder  
-2. Open with **Power BI Desktop**  
-3. Refresh the dataset if needed  
-4. Explore insights using slicers and filters  
-
----
-
-## Repository Structure
-
-```text
-credit-card-weekly-financial-dashboard/
-│
 ├── data/
 ├── sql/
 ├── powerbi/
